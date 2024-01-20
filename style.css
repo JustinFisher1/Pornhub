@@ -1,0 +1,23 @@
+#body{
+    width: 562px;
+    height: 1000px;
+    background-image: linear-gradient(rgb(255, 255, 255),black);
+}
+
+#body1{
+    background-image: url(https://i.pinimg.com/474x/11/0d/67/110d676428438cbf4d5fb853af39f952.jpg);
+    background-size: contain;
+    border-radius: 100px;
+    width: 80%;
+    height: 90%;
+    border-style:solid;
+    border-width: 25px;
+    border-color: black ;
+}
+
+#head1{
+    font-weight: bold;
+    color: black;
+    font-size: 2rem;
+    text-align-last: center;
+}
